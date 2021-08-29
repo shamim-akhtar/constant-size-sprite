@@ -1,0 +1,1 @@
+# constant-size-sprite
